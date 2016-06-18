@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyTube</string>
+
+    <string name="btn_login">登 录</string>
+    <string name="tv_new_user_register">新用户注册</string>
+    <string name="et_hint_input_password">请输入密码</string>
+    <string name="et_hint_input_username">请输入用户名</string>
+    <string name="et_hint_input_email">请输入邮箱地址</string>
+    <string name="view_count_text">%1$s views</string>
+
+</resources>

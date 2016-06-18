@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#66c88d</color>
+    <color name="colorPrimaryDark">#225839</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="duration_dackground_color">#99000000</color>
+    <color name="duration_text_color">#EEFFFFFF</color>
+    <color name="video_overlay_color">#66000000</color>
+    <color name="background_notification_color">#323232</color>
+    <color name="black">#000000</color>
+    <color name="light_black">#99000000</color>
+    <color name="colorTransparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="et_search_bg">#fcfbfa</color>
+    <color name="lightBlue">#32BED4</color>
+    <color name="black_overlay">#66000000</color>
+</resources>
